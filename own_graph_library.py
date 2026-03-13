@@ -45,7 +45,7 @@ class Edge(object):
         return f"source: {self.source}, target: {self.target}, weight: {self.weight}, movie_id: {self.movie_id}, label: {self.label}"
 
 """
-Graph class implimented here in a odd way, possible to import as well but we shall see how it goes
+Graph class implimented here in a odd way, we shall see how it goes
 """
 
 class Graph(object):
